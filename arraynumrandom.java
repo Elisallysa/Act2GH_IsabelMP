@@ -3,6 +3,9 @@ package eedd;
 public class arraynumrandom {
 
 	public static void main(String[] args) {
+		
+		System.out.println("Hola, bienvenidos a un programa que no sirve para nada:");
+		
 		int array[] = new int[30];
 		int arraycont[] = new int[10];
 		for (int i = 0; i < array.length; i++) {
